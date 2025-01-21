@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Perky98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Juraj (@perky98)
 
-<!---
-Perky98/Perky98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I’m a student developer passionate about web technologies.
+
+💻 **Currently**, I’m working at [Shieldone.sk](https://shieldone.sk).
+
+## 🛠️ Skills and Tools  
+- **Languages:** JavaScript, HTML, CSS  
+- **Frameworks:** React  
+- **Tools:** Git, Google Search Console  
+- **Other Skills:** SEO (Search Engine Optimization)  
+
+---
